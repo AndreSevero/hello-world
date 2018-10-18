@@ -1,4 +1,3 @@
 # hello-world
-tutorial{
+tutorial \n
 this is my tutorial repository. 
-}
